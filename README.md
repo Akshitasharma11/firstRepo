@@ -1,7 +1,7 @@
-# E-library Management system in c 
-Project: E-library Management system 
+# Introduction Website 
+Project: Introduction Website  
 <br>
-language used: C
+language used: Html
 <br>
 Author: Akshita Sharma 
 
