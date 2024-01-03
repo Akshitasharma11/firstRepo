@@ -1,7 +1,7 @@
 # Introduction Website 
 Project: Introduction Website  
 <br>
-language used: Html
+language used: HTML,CSS
 <br>
 Author: Akshita Sharma 
 
