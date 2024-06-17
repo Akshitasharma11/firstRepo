@@ -5,5 +5,10 @@ if($_SERVER["request_method"]=="POST"){
     $username=$_POST['username'];
     $password=$_POST['password'];
     $fptr=fopen($filename,'a');
-    fwrite($fptr,$name:)
-}
+    fwrite($fptr,$username:$password);
+    fclose($ptr);
+    echo("Submitted successfully");}
+    else{
+        echo"unsuccessful";
+    }
+?>
