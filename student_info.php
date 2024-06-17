@@ -1,0 +1,9 @@
+<?php
+$filename="studentinfo.txt";
+if($_SERVER["request_method"]=="POST"){
+    $name=$_POST['name'];
+    $username=$_POST['username'];
+    $password=$_POST['password'];
+    $fptr=fopen($filename,'a');
+    fwrite($fptr,$name:)
+}
