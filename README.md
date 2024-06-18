@@ -1,7 +1,7 @@
 # Introduction Website 
-Project: Introduction Website  
+Project: learning project 
 <br>
-language used: HTML,CSS
+language used: php
 <br>
 Author: Akshita Sharma 
 
